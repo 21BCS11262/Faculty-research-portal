@@ -1,0 +1,46 @@
+*{
+    color: rgb(0, 0, 0);
+}
+
+.main-div{
+    height: 730px ;
+    width: 1410px;
+    background-image: url(cul1.jpg);
+    border: 3px solid rgb(0, 0, 0);
+    position: fixed;
+    background-repeat: no-repeat;
+}
+.d-1{
+    height: 300px;
+    width: 300px;
+    border: 2px solid rgb(166, 145, 145);
+    border-radius: 50%;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 300px;
+    left: 550px
+    
+}
+
+.d-1:hover{
+    background-color: rgb(196, 227, 232);
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.p-1{
+    padding-left: 25px;
+    padding-top: 86px;
+    font-weight: bold;
+}
+
+.in-1{
+    margin-left: 50px;
+    
+}
+.in-2{
+    margin-top: 10px;
+    margin-left: 108px;
+}
